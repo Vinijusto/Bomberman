@@ -1,0 +1,2 @@
+Imports: pygame 
+Podes usar/ Use: python3 -m pip install pygame or pip3 install pygame
